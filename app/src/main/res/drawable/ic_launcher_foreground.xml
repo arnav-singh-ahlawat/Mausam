@@ -1,0 +1,35 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- First Cloud (Centered, Lower) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillType="nonZero"
+        android:pathData="M39,60
+        C34,60, 29,65, 29,70
+        C29,75, 34,80, 39,80
+        H59
+        C64,80, 69,75, 69,70
+        C69,65, 64,60, 59,60
+        C56,60, 54,58, 52,55
+        C50,52, 46,52, 44,55
+        C42,58, 39,60, 39,60z" />
+
+    <!-- Second Cloud (Centered, Upper) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillType="nonZero"
+        android:pathData="M49,40
+        C44,40, 39,45, 39,50
+        C39,55, 44,60, 49,60
+        H69
+        C74,60, 79,55, 79,50
+        C79,45, 74,40, 69,40
+        C66,40, 64,38, 62,35
+        C60,32, 56,32, 54,35
+        C52,38, 49,40, 49,40z" />
+
+</vector>
